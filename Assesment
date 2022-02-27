@@ -1,0 +1,21 @@
+-:FlyAway (An Airline Booking Portal): -
+
+ Background of the problem statement: ---                                        
+Fly Away is a ticket-booking portal that lets people book flights on their website.
+___________________________________________________________________________
+
+DESCRIPTION
+In this Project we design and develop an airline booking portal named as FlyAway. , we are going to create a servlet-based Maven web application project that shows a form for user login into database (tables). i used MYSql database for storing data tables. I build this web application project using JSP, Servlet,pom configuration and connect to database by learned dao. This web application manages a collection of data that included tables are:-
+FlyAway flights
+User
+Admin
+
+
+
+Basic features:--
+
+1.User Login for authenticate
+2.Select destination by taking input from the user.
+3.Show the available flights.
+4.Admin Login by mail and password.
+5.Only admin can insert the flight details(name,from, to, departure,time, and price)
